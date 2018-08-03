@@ -2,10 +2,17 @@
 <rss version="2.0">
 
 <channel>
-  <image>
+  <title>Mechanical Motivation</title>
+  <link>https://www.facebook.com</link>
+  <description>always motivating</description>
+  <item>
+    <title>Motivational 1</title>
+    <link>https://www.facebook.com</link>
+    <description>new #motivational #fitness</description>
+    <image>
     <url>https://raw.githubusercontent.com/mechanicalmotivation/motivation/master/assets/background.jpg</url>
-    <title>Background</title>
-  </image>  
-</channel>
+    </image> 
+  </item>
+  /channel>
 
 </rss>
