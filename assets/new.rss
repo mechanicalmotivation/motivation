@@ -20,5 +20,13 @@
     <url>https://raw.githubusercontent.com/mechanicalmotivation/motivation/master/assets/background2.jpg</url>
     </image> 
   </item>
+    <item>
+    <title>Motivational 2</title>
+    <link>https://www.facebook.com</link>
+    <description>the newest image #motivational #quotes #fitness</description>
+    <image>
+    <url>https://raw.githubusercontent.com/mechanicalmotivation/motivation/master/assets/say.jpg</url>
+    </image> 
+  </item>
   </channel>
 </rss>
