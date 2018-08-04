@@ -4,6 +4,7 @@
   <title>Mechanical Motivation</title>
   <link>https://www.facebook.com</link>
   <description>always motivating</description>
+  
   <item>
     <title>Motivational 1</title>
     <link>https://www.facebook.com</link>
@@ -12,6 +13,7 @@
     <url>https://raw.githubusercontent.com/mechanicalmotivation/motivation/master/assets/background.jpg</url>
     </image> 
   </item>
+  
   <item>
     <title>Motivational 2</title>
     <link>https://www.facebook.com</link>
@@ -20,7 +22,8 @@
     <url>https://raw.githubusercontent.com/mechanicalmotivation/motivation/master/assets/background2.jpg</url>
     </image> 
   </item>
-    <item>
+  
+  <item>
     <title>Motivational 2</title>
     <link>https://www.facebook.com</link>
     <description>the newest image #motivational #quotes #fitness</description>
@@ -28,5 +31,15 @@
     <url>https://raw.githubusercontent.com/mechanicalmotivation/motivation/master/assets/say.jpg</url>
     </image> 
   </item>
+
+  <item>
+    <title>Motivational 3</title>
+    <link>https://www.facebook.com</link>
+    <description>the alltime newest image #motivational #quotes #fitness</description>
+    <image>
+    <url>https://raw.githubusercontent.com/mechanicalmotivation/motivation/master/assets/background2.jpg</url>
+    </image> 
+  </item>
+
   </channel>
 </rss>
