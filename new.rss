@@ -2,44 +2,16 @@
 <rss version="2.0">
 <channel>
   <title>Mechanical Motivation</title>
-  <link>https://www.facebook.com</link>
+  <link>https://mechanicalmotivation.tumblr.com</link>
   <description>always motivating</description>
   
   <item>
-    <title>Motivational 1</title>
-    <link>https://www.facebook.com</link>
     <description>new #motivational #fitness</description>
-    <image>
-    <url>https://raw.githubusercontent.com/mechanicalmotivation/motivation/master/assets/background.jpg</url>
-    </image> 
-  </item>
-  
-  <item>
-    <title>Motivational 2</title>
-    <link>https://www.facebook.com</link>
-    <description>newest image #motivational #quotes #fitness</description>
+	<tags>#motivational #fitness</tags>
     <image>
     <url>https://raw.githubusercontent.com/mechanicalmotivation/motivation/master/assets/background2.jpg</url>
     </image> 
   </item>
   
-  <item>
-    <title>Motivational 2</title>
-    <link>https://www.facebook.com</link>
-    <description>the newest image #motivational #quotes #fitness</description>
-    <image>
-    <url>https://raw.githubusercontent.com/mechanicalmotivation/motivation/master/assets/say.jpg</url>
-    </image> 
-  </item>
-
-  <item>
-    <title>Motivational 3</title>
-    <link>https://www.facebook.com</link>
-    <description>the alltime newest image #motivational #quotes #fitness</description>
-    <image>
-    <url>https://raw.githubusercontent.com/mechanicalmotivation/motivation/master/assets/background2.jpg</url>
-    </image> 
-  </item>
-
   </channel>
 </rss>
