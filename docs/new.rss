@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-<channel>
-  <title>Mechanical Motivation</title>
-  <link>https://mechanicalmotivation.tumblr.com</link>
-  <description>always motivating</description>
+	<channel>
+		<title>Mechanical Motivation</title>
+		<link>https://mechanicalmotivation.tumblr.com</link>
+		<description>always motivating</description>
   
-  <item>
-    <description>#motivational #fitness</description>
-	<image>
-    <url>https://mechanicalmotivation.github.io/motivation/assets/background2.jpg</url>
-    </image> 
-  </item>
-  
-  </channel>
+		<image>
+			 <link>https://mechanicalmotivation.github.io/motivation/assets/background2.jpg</link>
+			 <description>#motivational #fitness</description>
+		  </image>
+	</channel>
 </rss>
