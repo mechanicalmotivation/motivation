@@ -4,10 +4,11 @@
 		<title>Mechanical Motivation</title>
 		<link>https://mechanicalmotivation.tumblr.com</link>
 		<description>always motivating</description>
-  
-		<image>
-			 <link>https://mechanicalmotivation.github.io/motivation/assets/background2.jpg</link>
-			 <description>#motivational #fitness</description>
-		  </image>
+		<item>
+			<image>
+				 <link>https://mechanicalmotivation.github.io/motivation/assets/background2.jpg</link>
+				 <description>#motivational #fitness</description>
+			  </image>
+		  </item>
 	</channel>
 </rss>
