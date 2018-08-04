@@ -28,5 +28,15 @@
     <url>https://raw.githubusercontent.com/mechanicalmotivation/motivation/master/assets/say.jpg</url>
     </image> 
   </item>
+    </item>
+    <item>
+    <title>Motivational 3</title>
+    <link>https://www.facebook.com</link>
+    <description>the alltime newest image #motivational #quotes #fitness</description>
+    <image>
+    <url>https://raw.githubusercontent.com/mechanicalmotivation/motivation/master/assets/background2.jpg</url>
+    </image> 
+  </item>
+
   </channel>
 </rss>
